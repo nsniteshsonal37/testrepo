@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage("Compile") {
       steps {
-        sh "Compiling"
+        echo "Compiling"
             }
           }
     stage("Unit test") {
