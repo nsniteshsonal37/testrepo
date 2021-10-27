@@ -10,5 +10,4 @@ if n==0:
 else:
 	b=2
 c=a/b	
-print(x)
 print(c)
