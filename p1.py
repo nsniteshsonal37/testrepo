@@ -1,7 +1,7 @@
 from datetime import datetime
 import unittest
 now=datetime.now()
-x=now.strftime("%S")
+x=now.strftime("%M")
 a=10
 n= int(x) % 2
 print(x)
